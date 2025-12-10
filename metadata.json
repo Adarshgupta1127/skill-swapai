@@ -1,0 +1,5 @@
+{
+  "name": "SkillSwap",
+  "description": "A smart skill exchange platform that uses AI to match users based on what they can teach and what they want to learn.",
+  "requestFramePermissions": []
+}
